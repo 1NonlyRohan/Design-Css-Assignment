@@ -1,0 +1,477 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page1 h1 {
+    color: royalblue;
+    margin: 80px 10px 30px 115px;
+    font-family: math;
+    display: inline-block;
+}
+
+.p1 {
+    color: #262626;
+    margin: 10px 10px 10px 110px;
+    font-family: josefin sans;
+    font-size: 20px;
+}
+
+.p2 {
+    font-weight: 700;
+    margin: 10px 10px 10px 110px;
+    font-family: josefin sans;
+    color: #3c3b3b;
+    font-size: 20px;
+}
+
+.img1 {
+    margin: 30px 1050px 10px -10px;
+}
+
+
+.cont1 {
+    margin: 10px 900px 20px 100px;
+}
+
+.cont1 h4 {
+    font-size: 25px;
+    color: #595959;
+    font-family: josefin sans;
+    padding: 10px 10px 10px 0px;
+}
+
+.cont1 p {
+    font-size: 23px;
+    color: #3c3b3b;
+    font-family: josefin sans;
+    padding: 0px 10px 20px 0px;
+}
+
+.img2 {
+    margin: 30px 1050px 10px -40px;
+}
+
+.cont2 {
+    margin: -400px 480px 10px 550px;
+}
+
+.cont2 h4 {
+    font-size: 25px;
+    color: #595959;
+    font-family: josefin sans;
+    padding: 10px 10px 10px 0px;
+}
+
+.cont2 p {
+    font-size: 23px;
+    color: #3c3b3b;
+    font-family: josefin sans;
+    padding: 0px 10px 20px 0px;
+}
+
+.img3 {
+    margin: 30px 1050px 10px -60px;
+}
+
+.cont3 {
+    margin: -420px 100px 20px 940px;
+}
+
+.cont3 h4 {
+    font-size: 25px;
+    color: #595959;
+    font-family: josefin sans;
+    padding: 10px 10px 10px 0px;
+}
+
+.cont3 p {
+    font-size: 23px;
+    color: #3c3b3b;
+    font-family: josefin sans;
+    padding: 0px 10px 20px 0px;
+}
+
+.page2 h1 {
+    font-family: math;
+    color: royalblue;
+    margin: 100px 10px 0px 100px;
+}
+
+.img4 img {
+    margin: 20px 10px 10px 100px;
+}
+
+.img5 img {
+    margin: -420px 0px 50px 600px;
+}
+
+.p3 {
+    font-size: 21px;
+    color: #3c3b3b;
+    font-family: josefin sans;
+    margin: 0px 860px 10px 110px;
+}
+
+.p4 {
+    font-size: 21px;
+    color: #3c3b3b;
+    font-family: josefin sans;
+    margin: -70px 220px -100px 607px;
+}
+
+
+.img6 img {
+    margin: 180px 0px 0px 0px;
+}
+
+.content-1 h5 {
+    border: 2px solid #8080e0;
+    font-size: 20px;
+    margin: -530px 380px 10px 910px;
+    padding: 2px 5px 5px 8px;
+    color: royalblue;
+}
+
+.content-1 p {
+    margin: 20px 100px 10px 910px;
+    color: #3c3b3b;
+    font-family: josefin sans;
+    font-size: 28px;
+}
+
+.content-2 h5 {
+    border: 2px solid #8080e0;
+    font-size: 20px;
+    margin: 50px 370px 10px 910px;
+    padding: 3px 0px 5px 6px;
+    color: royalblue;
+}
+
+.content-2 p {
+    margin: 20px 100px 10px 910px;
+    color: #3c3b3b;
+    font-family: josefin sans;
+    font-size: 28px;
+}
+
+.content-3 h5 {
+    border: 2px solid #8080e0;
+    font-size: 20px;
+    margin: 50px 320px 10px 910px;
+    padding: 3px 0px 5px 3px;
+    color: royalblue;
+}
+
+.content-3 p {
+    margin: 20px 100px 10px 910px;
+    color: #3c3b3b;
+    font-family: josefin sans;
+    font-size: 28px;
+}
+
+.page3 h1 {
+    font-family: math;
+    color: royalblue;
+    margin: 50px 900px 40px 100px;
+    font-weight: 800;
+}
+
+.page3-content-1 {
+    border: 1px solid rgb(105, 130, 206);
+    margin: 10px 750px 50px 100px;
+    padding: 10px 10px 10px 30px;
+}
+
+.page3-content-1 h4 {
+    padding: 30px 10px 10px 10px;
+    font-family: josefin sans;
+    font-size: 28px;
+    color: #3c3b3b;
+}
+
+.page3-content-1 p {
+    font-family: josefin sans;
+    padding: 10px 10px 20px 10px;
+    font-size: 26px;
+    color: #3c3b3b;
+}
+
+span {
+    color: royalblue;
+    font-family: josefin sans;
+}
+
+.li-content li {
+    color: #3c3b3b;
+    margin: 10px 10px 10px 30px;
+    font-size: 20px;
+}
+
+.page3-content-2 {
+    border: 1px solid rgb(105, 130, 206);
+    margin: -382px 60px 10px 810px;
+    padding: 10px 10px 10px 30px;
+}
+
+.page3-content-2 h4 {
+    padding: 30px 10px 10px 10px;
+    font-family: josefin sans;
+    font-size: 28px;
+    color: #3c3b3b;
+}
+
+.page3-content-2 p {
+    font-family: josefin sans;
+    padding: 10px 10px 20px 10px;
+    font-size: 26px;
+    color: #3c3b3b;
+}
+
+
+.page3-content-3 {
+    border: 1px solid rgb(105, 130, 206);
+    margin: 70px 750px 10px 100px;
+    padding: 10px 10px 10px 30px;
+}
+
+.page3-content-3 h4 {
+    padding: 30px 10px 10px 10px;
+    font-family: josefin sans;
+    font-size: 28px;
+    color: #3c3b3b;
+}
+
+.page3-content-3 p {
+    font-family: josefin sans;
+    padding: 10px 10px 20px 10px;
+    font-size: 26px;
+    color: #3c3b3b;
+}
+
+.page3-content-4 {
+    border: 1px solid rgb(105, 130, 206);
+    margin: -330px 60px 10px 810px;
+    padding: 10px 10px 10px 30px;
+}
+
+.page3-content-4 h4 {
+    padding: 30px 10px 10px 10px;
+    font-family: josefin sans;
+    font-size: 28px;
+    color: #3c3b3b;
+}
+
+.page3-content-4 p {
+    font-family: josefin sans;
+    padding: 10px 10px 20px 10px;
+    font-size: 26px;
+    color: #3c3b3b;
+}
+
+.page4 {
+    margin: 10px 0px 50px 0px;
+}
+
+.page4 h1 {
+    font-family: math;
+    color: royalblue;
+    margin: 100px 10px 0px 100px;
+}
+
+.page4 p {
+    color: #262626;
+    margin: 40px 10px 10px 100px;
+    font-family: josefin sans;
+    font-size: 20px;
+}
+
+.page4-content1 img {
+    margin: 50px 10px 10px 100px;
+}
+
+.page4-content1 h3 {
+    color: #262626;
+    margin: 10px 960px 10px 120px;
+    font-family: josefin sans;
+    font-size: 26px;
+}
+
+.page4-content2 img {
+    margin: 50px 10px 10px 100px;
+}
+
+.page4-content2 h3 {
+    color: #262626;
+    margin: 0px 570px 10px 70px;
+    font-family: josefin sans;
+    font-size: 23px;
+}
+
+.page4-content2 {
+    margin: -310px 10px 10px 330px;
+}
+
+.page4-content3 h3 {
+    color: #262626;
+    margin: 30px 280px 10px 30px;
+    font-family: josefin sans;
+    font-size: 23px;
+}
+
+.page4-content3 {
+    margin: -240px 10px 10px 700px;
+}
+
+.page4-content4 h3 {
+    color: #262626;
+    margin: 20px 20px 10px 30px;
+    font-family: josefin sans;
+    font-size: 23px;
+}
+
+.page4-content4 {
+    margin: -240px 10px 10px 1020px;
+}
+
+.page5 h1 {
+    font-family: math;
+    color: royalblue;
+    margin: 150px 10px 0px 100px;
+}
+
+.page5 p {
+    color: #262626;
+    margin: 40px 10px 10px 100px;
+    font-family: josefin sans;
+    font-size: 20px;
+}
+
+.page5-content1 img {
+    margin: 30px 10px 10px 110px;
+}
+
+.page5-content1 ol {
+    margin: -140px 10px 10px 340px;
+    font-size: 25px;
+    color: #262626;
+    font-family: josefin sans;
+    font-weight: 600;
+}
+
+.page5-content1 p {
+    color: #262626;
+    margin: 20px 100px 10px 340px;
+    font-family: josefin sans;
+    font-size: 25px;
+}
+
+.page5-content2 img {
+    margin: 30px 10px 10px 110px;
+}
+
+.page5-content2 ol {
+    margin: -120px 10px 10px 340px;
+    font-size: 25px;
+    color: #262626;
+    font-family: josefin sans;
+    font-weight: 600;
+}
+
+.page5-content2 p {
+    color: #262626;
+    margin: 20px 100px 10px 340px;
+    font-family: josefin sans;
+    font-size: 25px;
+}
+
+.page5-content3 img {
+    margin: 50px 10px 10px 110px;
+}
+
+.page5-content3 ol {
+    margin: -150px 10px 10px 340px;
+    font-size: 25px;
+    color: #262626;
+    font-family: josefin sans;
+    font-weight: 600;
+}
+
+.page5-content3 p {
+    color: #262626;
+    margin: 20px 100px 10px 340px;
+    font-family: josefin sans;
+    font-size: 25px;
+}
+
+.page5-content4 img {
+    margin: 50px 10px 10px 110px;
+}
+
+.page5-content4 ol {
+    margin: -120px 10px 10px 340px;
+    font-size: 25px;
+    color: #262626;
+    font-family: josefin sans;
+    font-weight: 600;
+}
+
+.page5-content4 p {
+    color: #262626;
+    margin: 20px 100px 10px 340px;
+    font-family: josefin sans;
+    font-size: 25px;
+}
+
+.page6 h1 {
+    font-family: math;
+    color: royalblue;
+    margin: 100px 10px 50px 100px;
+}
+
+
+.page6-content1 ol{
+    color: #262626;
+    margin: 20px 100px 10px 100px;
+    font-family: josefin sans;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.page6-content1 p {
+    font-family: josefin sans;
+    font-size: 25px;
+    color: #3c3b3b;
+    margin: 10px 300px 10px 120px;
+}
+
+.page6-content2 ol{
+    color: #262626;
+    margin: 60px 100px 10px 100px;
+    font-family: josefin sans;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.page6-content2 p {
+    font-family: josefin sans;
+    font-size: 25px;
+    color: #3c3b3b;
+    margin: 10px 300px 10px 120px;
+}
+
+.page6-content3 ol{
+    color: #262626;
+    margin: 60px 100px 10px 100px;
+    font-family: josefin sans;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.page6-content3 p {
+    font-family: josefin sans;
+    font-size: 25px;
+    color: #3c3b3b;
+    margin: 10px 300px 100px 120px;
+}
